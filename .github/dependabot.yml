@@ -1,0 +1,7 @@
+version: 2
+updates:
+  # Mantener las dependencias de npm (Node.js) actualizadas
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
