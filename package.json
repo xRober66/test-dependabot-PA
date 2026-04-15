@@ -1,0 +1,8 @@
+{
+  "name": "test-dependabot",
+  "version": "1.0.0",
+  "description": "Repositorio para probar Power Automate",
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
